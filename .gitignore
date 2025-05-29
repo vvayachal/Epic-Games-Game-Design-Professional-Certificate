@@ -81,3 +81,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 02. Unreal Engine Fundamentals/01. Introduction to Unreal Engine/Module1/Content/MWLandscapeAutoMaterial/Maps/Source/LandscapeAutoMaterial_Example_sharedassets/RemoveFoliage_LayerInfo.uasset
+*.uasset
